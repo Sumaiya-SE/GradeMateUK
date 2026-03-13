@@ -17,8 +17,11 @@ target/
 .DS_Store
 Thumbs.db
 
+<<<<<<< HEAD
 # Node / Frontend (if any)
 node_modules/
 
 #hid explicitly
 pom.xml
+=======
+>>>>>>> 0e84bcaef40ceb2d18b38e9f58fc3411cadb6ee1
