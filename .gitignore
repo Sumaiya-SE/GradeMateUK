@@ -17,9 +17,3 @@ target/
 .DS_Store
 Thumbs.db
 
-# Node / Frontend (if any)
-node_modules/
-
-# Hide these explicitly
-.gitignore
-pom.xml
