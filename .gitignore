@@ -19,3 +19,6 @@ Thumbs.db
 
 # Node / Frontend (if any)
 node_modules/
+
+#hid explicitly
+pom.xml
